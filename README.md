@@ -1,1 +1,2 @@
 # Blog-App
+ Engineered a Content Posting Platform using Spring Boot and Java, equipped with a Rest API for seamless integration. This platform empowers users to share diverse content, encompassing titles, text, images, and date-based categorization. User profiles efficiently manage posts, fortified with robust validation and exception handling for a secure, user-friendly content creation and sharing experience. 
